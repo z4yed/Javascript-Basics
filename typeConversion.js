@@ -35,3 +35,6 @@ console.log(String(Infinity)) // string type
     'any string', any negative/positive number, Infinity
 
 */
+
+let x = true;
+console.log(x.toString())
