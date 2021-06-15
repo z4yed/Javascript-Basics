@@ -9,3 +9,7 @@ for (var i=1; i<=n; i++)
     }
     console.log(result)
 }
+
+// 1
+// 1 2
+// 1 2 3
